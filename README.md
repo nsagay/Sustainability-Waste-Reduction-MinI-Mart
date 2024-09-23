@@ -1,7 +1,4 @@
 # Sustainability-Waste-Reduction-MinI-Mart
-
-Here's the revised README file focused on the client's goal of reducing waste and improving inventory planning:
-
 ---
 
 # Best Cart - Inventory Optimization and Waste Reduction Dashboard
