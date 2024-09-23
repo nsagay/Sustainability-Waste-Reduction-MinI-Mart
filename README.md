@@ -68,5 +68,5 @@ The top-selling products include:
 By using data-driven insights from the Exec Dashboard, **Best Cart** can significantly reduce waste and improve inventory planning in their mini-marts. The analysis highlights areas where inventory can be streamlined, such as phasing out low-performing categories like frozen foods, while increasing stock of high-demand items such as regular coffee and budget products. Strategic stocking around holidays and seasonal peaks will further ensure that Best Cart minimizes waste and maximizes sales.
 
 ---
-
-This version now reflects the client’s focus on waste reduction and improved inventory management. Let me know if any additional modifications are needed!
+Skills used:
+DAX, Data Modelling, Advanced Power BI, Power Query, M-code
